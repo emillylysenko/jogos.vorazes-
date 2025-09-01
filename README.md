@@ -18,9 +18,10 @@ Projeto em JavaScript sobre os filmes da franquia **Jogos Vorazes**.
   - Peeta Mellark - Josh Hutcherson
   - Haymitch Abernathy - Woody Harrelson
  ---
-- Cena importante: Banho de Sangue ::
- [![Assista ao vídeo](https://img.youtube.com/vi/NNFcI_8cKmg/0.jpg)](https://youtu.be/NNFcI_8cKmg)
---- 
+- Cena importante: Morte de Rue ::
+[![Assista ao vídeo](https://img.youtube.com/vi/lGnnOMNZn30/0.jpg)](https://youtu.be/lGnnOMNZn30?si=UX665Na8ywigjCTM)
+---
+
 
 ## 🎬 Sobre o segundo filme: Jogos Vorazes - Em Chamas 
 
